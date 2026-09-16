@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GamingUniverse.aternos.me",
-    "port": 43166,
+    "ip": "Deshi_Miner.aternos.me",
+    "port": 58468,
     "version": "1.20.1",
     "try-creative": false
   },
